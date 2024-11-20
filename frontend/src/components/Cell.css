@@ -1,0 +1,17 @@
+.cell {
+  margin-bottom: 20px;
+}
+
+.output {
+  background-color: #1e1e1e;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: left;
+  border-radius: 5px;
+}
+
+.output pre {
+  margin: 0;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
